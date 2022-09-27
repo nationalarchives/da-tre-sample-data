@@ -1,0 +1,12 @@
+Filepath,FileName,FileType,Filesize,RightsCopyright,LegalStatus,HeldBy,Language,FoiExemptionCode,LastModified
+data/content/folder-a/file-a1.txt,file-a1.txt,File,70263,Crown Copyright,Public Record,TNA,English,open,2022-07-18T00:00:00
+data/content/folder-a/file-a2.txt,file-a2.txt,File,21707,Crown Copyright,Public Record,TNA,English,open,2022-07-18T00:00:00
+data/content/folder-a,Folder,,Crown Copyright,Public Record,TNA,English,open,
+data/content/folder-b/file-b1.txt,file-b1.txt,File,39424,Crown Copyright,Public Record,TNA,English,open,2022-07-18T00:00:00
+data/content/folder-b/file-b2.txt,file-b2.txt,File,70674,Crown Copyright,Public Record,TNA,English,open,2022-07-18T00:00:00
+data/content/folder-b,Folder,,Crown Copyright,Public Record,TNA,English,open,
+data/content/file-c1.txt,file-c1.txt,File,12825,Crown Copyright,Public Record,TNA,English,open,2022-07-18T00:00:00
+data/content/file-c2.txt,file-c2.txt,File,12609,Crown Copyright,Public Record,TNA,English,open,2022-07-18T00:00:00
+data/content/folder-a,folder-a,Folder,,Crown Copyright,Public Record,TNA,English,open,
+data/content/folder-b,folder-b,Folder,,Crown Copyright,Public Record,TNA,English,open,
+data/content,content,Folder,,Crown Copyright,Public Record,TNA,English,open,
