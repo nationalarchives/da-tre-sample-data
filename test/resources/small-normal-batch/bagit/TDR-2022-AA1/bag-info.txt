@@ -1,0 +1,12 @@
+Consignment-Type: standard
+Bag-Creator: TDRExportv0.0.107
+Consignment-Start-Datetime: 2022-07-18T12:39:41Z
+Consignment-Series: MOCKA 101
+Source-Organization: MOCKA
+Contact-Name: DA Example
+Internal-Sender-Identifier: TDR-2022-AA1
+Consignment-Completed-Datetime: 2022-07-18T12:44:52Z
+Consignment-Export-Datetime: 2022-07-18T12:45:45Z
+Contact-Email: da.example@nationalarchives.gov.uk
+Payload-Oxum: 3893083.18
+Bagging-Date: 2022-07-18
