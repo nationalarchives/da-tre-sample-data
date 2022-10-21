@@ -1,0 +1,7 @@
+Filepath,AV-Software,AV-SoftwareVersion
+data/not-content/file-c2.txt,yara,4.2.0
+data/not-content/file-c1.txt,yara,4.2.0
+data/not-content/folder-b/file-b2.txt,yara,4.2.0
+data/not-content/folder-a/file-name-with  multi-space-a1.txt,yara,4.2.0
+data/not-content/folder-b/file-b1.txt,yara,4.2.0
+"data/not-content/folder-a/file-name-with-comma,-a2.txt",yara,4.2.0
