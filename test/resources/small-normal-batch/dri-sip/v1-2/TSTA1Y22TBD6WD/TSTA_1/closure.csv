@@ -1,0 +1,10 @@
+identifier,folder,closure_start_date,closure_period,foi_exemption_code,foi_exemption_asserted,title_public,title_alternate,closure_type
+file:/TSTA1Y22TBD6WD/TSTA_1/content/,folder,,0,open,,TRUE,,open_on_transfer
+file:/TSTA1Y22TBD6WD/TSTA_1/content/folder-a/,folder,,0,open,,TRUE,,open_on_transfer
+file:/TSTA1Y22TBD6WD/TSTA_1/content/folder-b/file-b1.txt,file,,0,open,,TRUE,,open_on_transfer
+file:/TSTA1Y22TBD6WD/TSTA_1/content/folder-b/file-b2.txt,file,,0,open,,TRUE,,open_on_transfer
+file:/TSTA1Y22TBD6WD/TSTA_1/content/file-c2.txt,file,,0,open,,TRUE,,open_on_transfer
+file:/TSTA1Y22TBD6WD/TSTA_1/content/folder-a/file-a2.txt,file,,0,open,,TRUE,,open_on_transfer
+file:/TSTA1Y22TBD6WD/TSTA_1/content/folder-a/file-a1.txt,file,,0,open,,TRUE,,open_on_transfer
+file:/TSTA1Y22TBD6WD/TSTA_1/content/file-c1.txt,file,,0,open,,TRUE,,open_on_transfer
+file:/TSTA1Y22TBD6WD/TSTA_1/content/folder-b/,folder,,0,open,,TRUE,,open_on_transfer
