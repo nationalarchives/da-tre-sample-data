@@ -1,0 +1,10 @@
+identifier,folder,closure_type,closure_start_date,closure_period,foi_exemption_code,foi_exemption_asserted,title_public,title_alternate,description_public,description_alternate
+file:/TSTA1Y23TB001/TSTA_1/content/,folder,open_on_transfer,,0,open,,TRUE,,TRUE,
+file:/TSTA1Y23TB001/TSTA_1/content/folder-b/,folder,open_on_transfer,,0,open,,TRUE,,TRUE,
+file:/TSTA1Y23TB001/TSTA_1/content/folder-a/,folder,open_on_transfer,,0,open,,TRUE,,TRUE,
+file:/TSTA1Y23TB001/TSTA_1/content/file-c1.txt,file,open_on_transfer,,0,open,,TRUE,,TRUE,
+file:/TSTA1Y23TB001/TSTA_1/content/folder-a/file-a2.txt,file,open_on_transfer,,0,open,,TRUE,,TRUE,
+file:/TSTA1Y23TB001/TSTA_1/content/file-c2.txt,file,open_on_transfer,,0,open,,TRUE,,TRUE,
+file:/TSTA1Y23TB001/TSTA_1/content/folder-b/file-b2.txt,file,open_on_transfer,,0,open,,TRUE,,TRUE,
+file:/TSTA1Y23TB001/TSTA_1/content/folder-a/file-a1.txt,file,closed_for,1984-09-11T00:00:00,50,"27(2),31",2023-02-27T00:00:00,FALSE,a1.txt,FALSE,Safe
+file:/TSTA1Y23TB001/TSTA_1/content/folder-b/file-b1.txt,file,closed_for,2023-02-27T00:00:00,10,31,2023-02-26T00:00:00,TRUE,,TRUE,
