@@ -1,0 +1,5 @@
+Filepath,Extension,PUID,FFID-Software,FFID-SoftwareVersion,FFID-BinarySignatureFileVersion,FFID-ContainerSignatureFileVersion
+data/content/folder-b/file-b2.txt,txt,x-fmt/111,Droid,6.6.1,111,20230307
+data/content/folder-a/file-a2.txt,txt,x-fmt/111,Droid,6.6.1,111,20230307
+data/content/folder-b/file-b1.txt,txt,x-fmt/111,Droid,6.6.1,111,20230307
+data/content/folder-a/file-a1.txt,txt,x-fmt/111,Droid,6.6.1,111,20230307

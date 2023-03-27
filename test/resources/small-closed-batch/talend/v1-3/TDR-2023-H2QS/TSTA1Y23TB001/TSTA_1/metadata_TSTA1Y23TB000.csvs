@@ -1,14 +1,11 @@
 version 1.2
-@totalColumns 19
+@totalColumns 15
 identifier: uri fileExists unique if($folder/is("folder"),ends("/")) integrityCheck ("includeFolder")
 file_name: in(uriDecode($identifier))
 folder: is("folder") or is("file")
 date_last_modified: xDateTime
 description: if($folder/is("file"),length(1,*)) @optional
 end_date: xDateTime not($date_last_modified) @optional
-created_date: xDateTime @optional
-date_range: regex("\[19[7-9][2|7]\-19[7-9][1|6]\]") @optional
-start_date: xDateTime @optional
 checksum: if($folder/is("file"),checksum(file($identifier),"SHA-256"),empty)
 rights_copyright: is("Crown Copyright")
 legal_status: any("Public Record(s)","Not Public Record(s)","Welsh Public Record(s)")
@@ -16,6 +13,5 @@ held_by: is("The National Archives, Kew")
 language: is("Welsh") or is("English") or is("English and Welsh")
 original_identifier: if($identifier/ends("_R.pdf"),uri fileExists,empty)
 file_name_translation: @optional
-file_name_translation_language: @optional
-file_name_language: @optional
 TDR_consignment_ref: @optional
+former_reference_department: @optional
