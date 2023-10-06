@@ -8,3 +8,6 @@
 /httpRequests/
 /vcs.xml
 /.idea/
+/project
+/target
+/.bsp
